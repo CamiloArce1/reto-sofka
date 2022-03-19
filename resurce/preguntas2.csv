@@ -1,0 +1,26 @@
+categoria,id,pregunta,a,b,c,d,respuesta
+1,1,Cuantos orbitales tiene el subnivel d,3,1,4,5,5
+1,2,Cuál es el número máximo de electrones que puede contener un orbital,7,4,5,2,2
+1,3,Selecciona el nombre del siguiente compuesto: Na2CO3,Carbonato ácido de sodio,Carbonito de sodio,Carbonato de sodio,Bicarbonato de sodio,Carbonato de sodio
+1,4,"Identifica los nombres de los siguientes compuestos químicos: NH4OH, Ba(OH)2,Zn(OH)2","Hidróxido de amonio, hidróxido de bario, oxido de zinc","Nitruro de amonio, hidróxido de bario, hidróxido de zinc","Hidróxido de amonio, hidróxido de bario, hidróxido de zinc","Hidróxido de amonio, oxido de bario, oxido de zinc","Hidróxido de amonio, hidróxido de bario, hidróxido de zinc"
+1,5,"Cuando la temperatura de un gas permanece constante, ¿qué le pasa a la velocidad de las moléculas",Se multiplica por la masa molecular del gas,Aumenta,Se iguala a cero,Permanece constante,Permanece constante
+2,1,Cual es el plato tipico de bogota,bandeja paisa,arepa,ajiaco,changua,changua
+2,2,Cual es la capital de Colombia,Medellin,Barranquilla,Bogota,Cartagena,Bogota
+2,3,Insecto que se come en la region de los Santanderes,Chiguiro,Cucaracha,Hormiga Culona,Ovejo,Hormiga Culona
+2,4,En que año fue la independencia de colombia,1810,1910,1492,2000,1810
+2,5,Como se llama el personaje del billete de 20000 pesos,Julio Garavito,Antonio Nariño,Matias Gomez,Simon Bolivar,Julio Garavito
+3,1,En que año fue la primera pelicula de la historia,1988,1888,1820,1887,1888
+3,2,Quien grabo la primera pelicula de ficcion,Alice Guy,Gorger Melice,Griff,Charles Tai,Alice Guy
+3,3,Director de la pelicula the history of the kelly gang,Alice Guy,Gorger Melice,Griff,Charles Tai,Charles Tai
+3,4,En que año fue proyectada la primera pelicula de los hermanos Lumier,1895,1888,1896,1894,1895
+3,5,En que año fue proyectada la primera pelicula en Colombia,1955,1954,1987,1888,1954
+4,1,Cuantos dientes tiene el ser Humano,33,31,37,32,32
+4,2,Cuál es el nombre de especie de los seres humanos,Homo sapiens sapiens,Homo sapiens,Homo Rudolfensis,homo longi,Homo sapiens sapiens
+4,3,Cuántos corazones tiene un gusano de tierra,2,3,1,5,5
+4,4,Qué grasas son más saludables,grasas trans,grasas saturadas,grasas insaturadas,grasas grasosas,grasas insaturadas
+4,5,Cuántas patas tiene una araña,4,6,5,8,8
+5,1,Cuál es el río más largo del mundo,el amazonas,rojo,nilo,valle del cauca,nilo
+5,2,Cuál es el país con más habitantes del mundo,Japon,China,Colombia,Brazil,China
+5,3,Dónde está Transilvania,Rumania,Carolina del Norte,EEUU,España,Rumania
+5,4,Cuál es el país con menos habitantes del mundo,Italia,Francia,Ciudad del Vaticano,Portugal,Ciudad del Vaticano
+5,5,En qué año cayó el muro de Berlín,1918,1920,2000,2022,1918
