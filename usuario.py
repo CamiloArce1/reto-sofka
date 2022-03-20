@@ -1,22 +1,21 @@
 import csv
 
 
-class usuario:
+class Usuario:
 
-    def __init__(self, nombre)-> None:
-        self.nombre = nombre
-        self.puntaje = 0
-        self.ronda = 0
-        pass
+    def __init__(self)-> None:
+        self.nombre = None
+        
+        
 
     def registro(self):
         self.nombre = input("Registre su nombre: ")
-        pass
+        return self.nombre
     
     def DatosHistoricos(self):
-        with open ('DatosHistoricos.csv','a+',encoding='UTF8',newline='') as Historial:
+        with open ('DatosHistoricos.csv','a+',encoding='UTF8') as Historial:
             write = csv.writer(Historial)
-            write.writerow([self.nombre, self.puntaje,self.ronda])
-        pass
+            write.writerow([self.nombre])
+        
 
 

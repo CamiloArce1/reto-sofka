@@ -13,5 +13,5 @@ class Preguntas:
         self.categoria = 0
         self.ronda = 1 
         preguntas = pd.read_csv(self.nombre, header='0')
-        print(preguntas.iloc(self.ronda))
+        return(preguntas.iloc(self.ronda))
 
